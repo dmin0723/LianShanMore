@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#d0f8ce"
+              android:orientation="vertical">
+
+    <ImageView
+        style="@style/MyImageView"
+        android:src="@drawable/viewer"/>
+
+    <LinearLayout
+        android:padding="2dp"
+        style="@style/MyLinearLayout">
+
+        <TextView
+            android:id="@+id/jinzishan"
+            style="@style/MyItemText"
+            android:onClick="onClick"
+            android:text="@string/jinzishan"
+        />
+
+        <TextView
+            android:id="@+id/daxushan"
+            style="@style/MyItemText"
+            android:onClick="onClick"
+            android:text="@string/daxushan"
+        />
+    </LinearLayout>
+
+    <LinearLayout
+        android:padding="2dp"
+        style="@style/MyLinearLayout">
+
+        <TextView
+            android:id="@+id/yingyangguan"
+            style="@style/MyItemText"
+            android:onClick="onClick"
+            android:text="@string/yingyangguan"
+        />
+
+        <TextView
+            android:id="@+id/oujiatitian"
+            style="@style/MyItemText"
+            android:onClick="onClick"
+            android:text="@string/oujiatitian"
+        />
+
+    </LinearLayout>
+
+
+</LinearLayout>

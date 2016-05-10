@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\App\2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\App\2\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.3.0_f5d824b8a80a0888296857c0f92745cda2ee873a.jar" />
+    </item>
+    <item
+        jar="D:\Android\android-studio\sdkall\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\App\2\app\build\intermediates\pre-dexed\release\support-annotations-23.3.0_9892cf45c22e1959e9895fbf543b976a95b32132.jar" />
+    </item>
+    <item
+        jar="E:\App\2\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="2c4790d8cd4b7c12026ea2fdc49660991286c713">
+        <dex dex="E:\App\2\app\build\intermediates\pre-dexed\release\BaiduLBS_Android_1968d01231e9f789cf692bdfd4ebd5fae8a5e116.jar" />
+    </item>
+    <item
+        jar="E:\App\2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\App\2\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.3.0_c967d7a8b7590ffffb47e730f59a88be543d0b81.jar" />
+    </item>
+    <item
+        jar="E:\App\2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\App\2\app\build\intermediates\pre-dexed\release\internal_impl-23.3.0_50bc5d0d23640722ba60a0307d2a5c29eab858c5.jar" />
+    </item>
+    <item
+        jar="E:\App\2\app\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="E:\App\2\app\build\intermediates\pre-dexed\release\httpmime-4.1.2_624c22bf335b334fd8e6e678c4062ea297368b9b.jar" />
+    </item>
+    <item
+        jar="E:\App\2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\App\2\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.3.0_ddeb3c0cd517a9cda38bdc13401c7c6b6d12b928.jar" />
+    </item>
+    <item
+        jar="E:\App\2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\App\2\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.3.0_e1943628dfda8537d0ca75312193e488316501a4.jar" />
+    </item>
+
+</items>
